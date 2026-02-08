@@ -1,0 +1,8 @@
+{
+  "name": "THRIFTMARKET by: Dev.Daniel",
+  "description": "AI-powered dashboard for reselling thrifted clothes. Get pricing advice, professional descriptions, and lifestyle imagery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
