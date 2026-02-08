@@ -2,7 +2,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { ChatMessage, MessageRole, ThriftItem, UserRole, UserProfile, CartItem, PaymentMethod, Order } from './types';
 import { generateAIResponse, detectImageIntent } from './services/geminiService';
-import { storage } from './services/storageService';
+import { storage } from './services/geminiService';
 import MessageItem from './components/MessageItem';
 import ChatInput from './components/ChatInput';
 
