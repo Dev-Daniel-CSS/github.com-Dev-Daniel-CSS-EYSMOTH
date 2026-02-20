@@ -1,7 +1,8 @@
 {
-  "description": "EYSMOTH Neural Core - Engineered by Daniel Rojo. An advanced multimodal assistant for neural chat and visual synthesis.",
+  "name": "THRIFTMARKET by: Dev.Daniel",
+  "description": "AI-powered dashboard for reselling thrifted clothes. Get pricing advice, professional descriptions, and lifestyle imagery.",
   "requestFramePermissions": [
+    "camera",
     "microphone"
-  ],
-  "name": "EYSMOTH // DANIEL ROJO"
+  ]
 }
